@@ -1,0 +1,4 @@
+pytest
+pyautogui
+pyperclip
+opencv-python
